@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233620349971",
+    "firebase_url": "https://tasks-b5ba6.firebaseio.com",
+    "project_id": "tasks-b5ba6",
+    "storage_bucket": "tasks-b5ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233620349971:android:1eb01410d9783ac3",
+        "android_client_info": {
+          "package_name": "com.offbeat.apps.tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233620349971-00vppo9q2tgr70mapvlhga58m360fugg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offbeat.apps.tasks",
+            "certificate_hash": "b4fe1fa29af266eb7c9d2e33e375ca768ea131ea"
+          }
+        },
+        {
+          "client_id": "233620349971-d6vqj0m5at3qtfsf2767v1nq7lvbf0i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjmQ9pIfi9QtDn5xBcfMC2hDUq3N7rKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233620349971-d6vqj0m5at3qtfsf2767v1nq7lvbf0i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

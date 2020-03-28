@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#BDBDBD</color>
+    <color name="colorAccent">#212121</color>
+    <color name="bottomSheetBackground">#FFFFFF</color>
+    <color name="colorGray">#424242</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="icon_overlay">#EEEEEE</color>
+
+    <color name="orange_start">#FF7B02</color>
+    <color name="orange_end">#FFCB52</color>
+    <color name="purple_start">#5C27FE</color>
+    <color name="purple_end">#C165DD</color>
+    <color name="green_start">#2AFEB7</color>
+    <color name="green_end">#08C792</color>
+    <color name="yellow_start">#FFE324</color>
+    <color name="yellow_end">#FFB533</color>
+</resources>

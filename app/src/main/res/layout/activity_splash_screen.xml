@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.SplashScreen">
+
+    <ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="84dp"
+        android:transitionName="app_image"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/ic_launcher" />
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:gravity="bottom|center"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="24dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="8Px"
+            android:textStyle="bold"
+            android:textColor="@color/colorGray"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:textSize="12sp"
+            android:textColor="@color/colorGray"
+            android:layout_gravity="bottom|center"
+            android:text="By Offbeat Apps"/>
+    </LinearLayout>
+</FrameLayout>

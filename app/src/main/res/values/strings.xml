@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string name="morning">Good Morning!</string>
+    <string name="afternoon">Good Afternoon!</string>
+    <string name="evening">Good Evening!</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="login_token">233620349971-d6vqj0m5at3qtfsf2767v1nq7lvbf0i9.apps.googleusercontent.com</string>
+
+    <!--database keys-->
+    <string name="user_id" formatted="false" translatable="false">user_id</string>
+    <string name="user_fullname" formatted="false" translatable="false">user_fullname</string>
+    <string name="user_email" formatted="false" translatable="false">user_email</string>
+    <string name="user_profile_picture" formatted="false" translatable="false">user_profile_picture</string>
+    <string name="tasks_collection" formatted="false" translatable="false">Tasks</string>
+    <string name="default_task_mytasks" formatted="false" translatable="false">My Tasks</string>
+    <string name="default_task_personal" formatted="false" translatable="false">Personal</string>
+    <string name="icon" translatable="false" formatted="false">icon</string>
+    <string name="completed_tasks" formatted="false" translatable="false">completed_tasks</string>
+    <string name="incomplete_tasks" formatted="false" translatable="false">incomplete_tasks</string>
+    <string name="start_color" formatted="false" translatable="false">start_color</string>
+    <string name="end_color" formatted="false" translatable="false">end_color</string>
+    <string name="title" formatted="false" translatable="false">title</string>
+    <string name="timestamp" formatted="false" translatable="false">timestamp</string>
+    <string name="description" formatted="false" translatable="false">description</string>
+    <string name="due_date" formatted="false" translatable="false">due_date</string>
+    <string name="is_complete" formatted="false" translatable="false">is_complete</string>
+    <string name="id" formatted="false" translatable="false">id</string>
+    <string name="title_activity_todo_list">TodoListActivity</string>
+    <string name="start_orange_grad" translatable="false">#FF7B02</string>
+    <string name="end_orange_grad" translatable="false">#FFCB52</string>
+    <string name="start_purple_grad" translatable="false">#5C27FE</string>
+    <string name="end_purple_grad" translatable="false">#C165DD</string>
+    <string name="start_green_grad" translatable="false">#2AFEB7</string>
+    <string name="end_green_grad" translatable="false">#08C792</string>
+    <string name="start_yellow_grad" translatable="false">#FFE324</string>
+    <string name="end_yellow_grad" translatable="false">#FFB533</string>
+    <string name="list_title_hint">What would you like to call this list?</string>
+    <string name="choose_color_hint">Choose a color for list</string>
+    <string name="create_list">Create List</string>
+    <string name="new_task">New Task</string>
+    <string name="add_task_hint">What are you planning to do?</string>
+    <string name="add_task">+ Add Task</string>
+    <string name="new_list">New List</string>
+    <string name="edit_text_empty">Required</string>
+    <string name="select_an_icon">Select an icon</string>
+
+
+</resources>

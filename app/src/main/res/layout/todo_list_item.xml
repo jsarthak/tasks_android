@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="16dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:selectableItemBackground"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:id="@+id/cb_todo_list"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@color/colorGray"
+        android:textStyle="bold"
+        android:layout_toRightOf="@id/cb_todo_list"
+        android:id="@+id/title"
+        tools:text="Sarthak Jain"
+        android:layout_marginStart="16dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:alpha="0.8"
+        android:layout_marginTop="24dp"
+        android:layout_below="@id/title"
+        android:background="@android:color/darker_gray"/>
+
+
+</RelativeLayout>
